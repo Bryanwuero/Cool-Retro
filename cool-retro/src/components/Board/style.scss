@@ -1,0 +1,24 @@
+.ant-btn-dashed {
+
+    &--hide { 
+      display: none;
+      text-decoration: none;
+    }
+}
+
+.editCard {
+  position: relative;
+}
+
+.editCard TextArea { 
+  text-indent: 30px;
+}
+
+.editCard .text-icon { 
+  position: absolute;
+    top: 27px;
+    right: 10px;
+    z-index: 1;
+    text-align: left;
+    font-size: 15px;
+}
